@@ -6,5 +6,5 @@ let user = {
 function count(obj) {
   return Object.keys(obj).length;
 }
-
-console.log(count(user));
+let coutnOfproperties = count(user);
+console.log(coutnOfproperties);
