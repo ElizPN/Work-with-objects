@@ -8,6 +8,8 @@ function sumTo(n) {
 
 console.log(sumTo(100));
 
+//recursion version:
+
 function sumNum(n) {
   if (n < 1) {
     return n;

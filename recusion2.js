@@ -18,3 +18,4 @@ function countdown(n) {
     return newArr;
   }
 }
+console.log(countdown(5));
